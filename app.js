@@ -93,9 +93,9 @@ function tick(now) {
   const dt = Math.min(now - previous, 100);
   previous = now;
   if (svg && !paused && !original && inView && !document.hidden) {
-    motionTime = Math.min(motionTime + dt, 5000);
+    motionTime = (motionTime + dt) % 5000;
     paint();
-    if (motionTime >= 5000) { paused = true; syncPause(); }
+
   }
   requestAnimationFrame(tick);
 }
