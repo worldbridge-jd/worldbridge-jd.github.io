@@ -1,0 +1,498 @@
+{
+  "assets": {
+    "openwam.png": {
+      "url": "https://openwam-official.github.io/marks/openwam.png",
+      "bytes": 13803,
+      "mime": "image/png"
+    },
+    "starvla.svg": {
+      "url": "https://openwam-official.github.io/marks/starvla.svg",
+      "bytes": 10156,
+      "mime": "image/svg+xml"
+    },
+    "fast-wam.svg": {
+      "url": "https://openwam-official.github.io/marks/fast-wam.svg",
+      "bytes": 426616,
+      "mime": "image/svg+xml"
+    },
+    "lingbot.svg": {
+      "url": "https://openwam-official.github.io/marks/lingbot.svg",
+      "bytes": 2493,
+      "mime": "image/svg+xml"
+    },
+    "qwen.png": {
+      "url": "https://openwam-official.github.io/marks/qwen.png",
+      "bytes": 9647,
+      "mime": "image/png"
+    },
+    "being.png": {
+      "url": "https://openwam-official.github.io/marks/being.png",
+      "bytes": 2840,
+      "mime": "image/png"
+    },
+    "aha.png": {
+      "url": "https://serene-sivy.github.io/aha-wam/static/images/aha-logo.png",
+      "bytes": 301752,
+      "mime": "image/png"
+    },
+    "spatial.png": {
+      "url": "https://spatial-forcing.github.io/static/images/SF-icon.png",
+      "bytes": 298661,
+      "mime": "image/png"
+    },
+    "x-wam.png": {
+      "url": "https://sharinka0715.github.io/X-WAM/static/images/logo.png",
+      "bytes": 36535,
+      "mime": "image/png"
+    },
+    "motubrain.svg": {
+      "url": "https://www.motubrain.com/assets/favicon-wQF4evSY.svg",
+      "bytes": 1014,
+      "mime": "image/svg+xml"
+    },
+    "long-wam.svg": {
+      "url": "https://nvlabs.github.io/LongLive/Long-WAM/static/images/favicon.svg",
+      "bytes": 384,
+      "mime": "image/svg+xml"
+    },
+    "galaxea.png": {
+      "url": "https://opengalaxea.github.io/G05/images/Galaxea.png",
+      "bytes": 56358,
+      "mime": "image/png"
+    },
+    "dexmal.png": {
+      "url": "https://avatars.githubusercontent.com/u/253836772?s=60&v=4",
+      "bytes": 1327,
+      "mime": "image/jpeg"
+    },
+    "intern.png": {
+      "url": "https://avatars.githubusercontent.com/u/127282590?s=60&v=4",
+      "bytes": 1100,
+      "mime": "image/png"
+    },
+    "ace.png": {
+      "url": "https://avatars.githubusercontent.com/u/241885212?s=60&v=4",
+      "bytes": 1511,
+      "mime": "image/png"
+    },
+    "abot.png": {
+      "url": "https://avatars.githubusercontent.com/u/207984189?s=60&v=4",
+      "bytes": 5032,
+      "mime": "image/png"
+    },
+    "hunyuan.png": {
+      "url": "https://avatars.githubusercontent.com/u/210980732?s=60&v=4",
+      "bytes": 2602,
+      "mime": "image/png"
+    },
+    "xiaomi.ico": {
+      "url": "https://robotics.xiaomi.com/favicon.ico?v=1",
+      "bytes": 4286,
+      "mime": "image/vnd.microsoft.icon"
+    },
+    "joy.png": {
+      "url": "https://joyra.s3.cn-north-1.jdcloud-oss.com/assets/logo.f0f088d3.png",
+      "bytes": 80740,
+      "mime": "image/png"
+    },
+    "hku.png": {
+      "url": "https://www.hku.hk/etc.clientlibs/hkucms/clientlibs/clientlib-site/resources/icon-192x192.png",
+      "bytes": 25212,
+      "mime": "image/png"
+    },
+    "hkust-gz.png": {
+      "url": "https://material.hkust-gz.edu.cn/wp-content/uploads/2023/04/cropped-favicon-1-1-192x192.png",
+      "bytes": 8247,
+      "mime": "image/png"
+    },
+    "zju.ico": {
+      "url": "https://www.zju.edu.cn/_upload/tpl/0b/bf/3007/template3007/favicon.ico",
+      "bytes": 1406,
+      "mime": "image/x-icon"
+    },
+    "hit.png": {
+      "url": "https://www.hit.edu.cn/_upload/tpl/02/df/735/template735/images/touch-icon-iphone.png",
+      "bytes": 4834,
+      "mime": "image/png"
+    },
+    "physical-intelligence.png": {
+      "url": "https://avatars.githubusercontent.com/u/162759805?v=4",
+      "bytes": 3009,
+      "mime": "image/png"
+    },
+    "gigaai.png": {
+      "url": "https://avatars.githubusercontent.com/u/234554842?v=4",
+      "bytes": 8983,
+      "mime": "image/png"
+    },
+    "dynamicwam.png": {
+      "url": "https://dynamicwam.github.io/static/images/favicon.png",
+      "bytes": 3470,
+      "mime": "image/png"
+    },
+    "ace-official.png": {
+      "url": "https://cdn-avatars.huggingface.co/v1/production/uploads/6a4a45de4ba0a921a91a548a/MSX_HJLXaBYKy2ZByYTnN.png",
+      "bytes": 5180,
+      "mime": "image/webp"
+    },
+    "nvidia-square.png": {
+      "url": "https://iprsoftwaremedia.com/219/files/202512/692f50553d6332b453bbc5c2_nvidia-logo-vert-blk/nvidia-logo-vert-blk_thmb.png?v=6390c37f-960b-42bd-a176-b51cfa6d7ba4",
+      "bytes": 24587,
+      "mime": "image/png"
+    },
+    "hust.png": {
+      "url": "https://www.hust.edu.cn/images/logo20240628.png",
+      "bytes": 18235,
+      "mime": "image/png"
+    },
+    "stanford.png": {
+      "url": "https://www.stanford.edu/icon1.png",
+      "bytes": 15035,
+      "mime": "image/png"
+    },
+    "amap.ico": {
+      "url": "https://wap.amap.com/favicon.ico",
+      "bytes": 4286,
+      "mime": "image/x-icon"
+    },
+    "shlab.webp": {
+      "url": "https://www.shlab.org.cn/static/asset/2025/imgs/logo.webp",
+      "bytes": 115278,
+      "mime": "image/webp"
+    },
+    "jd.ico": {
+      "url": "https://storage.360buyimg.com/retail-mall/mall-common-component/favicon.ico",
+      "bytes": 2817,
+      "mime": "image/x-icon"
+    },
+    "cuhk.png": {
+      "url": "https://www.cuhk.edu.hk/english/images/fav-icons/android-chrome-192x192.png",
+      "bytes": 28991,
+      "mime": "image/png"
+    },
+    "adelaide.png": {
+      "url": "https://adelaide.edu.au/content/dam/adelaideuniversity/images/global/favicons/icon-192x192.png",
+      "bytes": 4862,
+      "mime": "image/png"
+    },
+    "sjtu.png": {
+      "url": "https://vi.sjtu.edu.cn/uploads/files/caf2f5045c47308250fab3812dfe2003-6896b91594f238b24e67696224948251.png",
+      "bytes": 303890,
+      "mime": "image/png"
+    },
+    "pku.png": {
+      "url": "https://www.pku.edu.cn/pku_logo_red.png",
+      "bytes": 25869,
+      "mime": "image/png"
+    },
+    "nus.png": {
+      "url": "https://openwam-official.github.io/data/institutions/nus.png",
+      "bytes": 49737,
+      "mime": "image/png"
+    },
+    "njust.svg": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/77/NJUST_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "bytes": 209157,
+      "mime": "image/svg+xml"
+    }
+  },
+  "methods": {
+    "4D-WAM": {
+      "file": "adelaide.png",
+      "text": "4D",
+      "label": "Adelaide University",
+      "affiliationSource": "https://arxiv.org/pdf/2608.08023",
+      "firstAuthor": "Lishan Yang"
+    },
+    "ABot-M0": {
+      "file": "amap.ico",
+      "text": "高德",
+      "label": "Amap / 高德",
+      "affiliationSource": "https://mobile.amap.com/cn/Index.aspx"
+    },
+    "ACE-Ego-0": {
+      "file": "ace-official.png",
+      "text": "ACE",
+      "label": "ACE Robotics",
+      "affiliationSource": "https://huggingface.co/ACERobotics"
+    },
+    "AHA-WAM": {
+      "file": "sjtu.png",
+      "text": "AHA",
+      "label": "Shanghai Jiao Tong University",
+      "firstAuthor": "Jisong Cai",
+      "affiliationSource": "https://serene-sivy.github.io/aha-wam/"
+    },
+    "Being-H0.7": {
+      "file": "being.png",
+      "text": "Bei"
+    },
+    "DIAL": {
+      "file": "hku.png",
+      "text": "DIAL",
+      "label": "The University of Hong Kong",
+      "affiliationSource": "https://xpeng-robotics.github.io/dial/",
+      "firstAuthor": "Yi Chen"
+    },
+    "DM0.5": {
+      "file": "dexmal.png",
+      "text": "DM0"
+    },
+    "DynamicWAM": {
+      "file": "pku.png",
+      "text": "DW",
+      "label": "PKU-PI Lab, Peking University",
+      "affiliationSource": "https://dynamicwam.github.io/",
+      "firstAuthor": "Yunfan Lou"
+    },
+    "Fast-WAM": {
+      "file": "fast-wam.svg",
+      "text": "Fas",
+      "label": "Tsinghua University",
+      "firstAuthor": "Tianyuan Yuan",
+      "affiliationSource": "https://yuantianyuan01.github.io/FastWAM/"
+    },
+    "GTA-VLA": {
+      "file": "hit.png",
+      "text": "GTA",
+      "label": "Harbin Institute of Technology",
+      "affiliationSource": "https://github.com/FutianLabs/GTA-VLA",
+      "firstAuthor": "Yiran Ling"
+    },
+    "GalaxeaVLA (G0.5)": {
+      "file": "galaxea.png",
+      "text": "Gal"
+    },
+    "GigaBrain-0.7": {
+      "file": "gigaai.png",
+      "text": "GB",
+      "label": "GigaAI",
+      "affiliationSource": "https://github.com/open-gigaai/giga-brain-0"
+    },
+    "Hy-Embodied-0.5-VLA": {
+      "file": "hunyuan.png",
+      "text": "Hy"
+    },
+    "InternVLA-A1.5": {
+      "file": "shlab.webp",
+      "text": "上海AI",
+      "label": "Shanghai Artificial Intelligence Laboratory / 上海人工智能实验室",
+      "affiliationSource": "https://www.shlab.org.cn/"
+    },
+    "JoyAI-RA 0.1": {
+      "file": "jd.ico",
+      "text": "JD",
+      "label": "JD / 京东",
+      "affiliationSource": "https://www.jd.com/"
+    },
+    "Kairos": {
+      "file": "ace-official.png",
+      "text": "K",
+      "label": "ACE Robotics",
+      "affiliationSource": "https://huggingface.co/ACERobotics/kairos-4B-robot-RoboTwin2.0"
+    },
+    "LaMem-VLA": {
+      "file": "njust.svg",
+      "text": "LM",
+      "label": "Nanjing University of Science and Technology",
+      "affiliationSource": "https://arxiv.org/pdf/2607.07608",
+      "firstAuthor": "Hongyu Qu"
+    },
+    "LingBot-VA": {
+      "file": "lingbot.svg",
+      "text": "Lin"
+    },
+    "LingBot-VA 2.0": {
+      "file": "lingbot.svg",
+      "text": "Lin"
+    },
+    "Long-WAM": {
+      "file": "nvidia-square.png",
+      "text": "Lon",
+      "label": "NVIDIA",
+      "affiliationSource": "https://github.com/NVlabs/LongLive/blob/main/Long-WAM/README.md",
+      "firstAuthor": "Wei Huang"
+    },
+    "Long-WAM (IDM)": {
+      "file": "nvidia-square.png",
+      "text": "Lon",
+      "label": "NVIDIA",
+      "affiliationSource": "https://github.com/NVlabs/LongLive/blob/main/Long-WAM/README.md",
+      "firstAuthor": "Wei Huang"
+    },
+    "Mem-0": {
+      "file": "hku.png",
+      "text": "M₀",
+      "label": "The University of Hong Kong",
+      "affiliationSource": "https://rmbench.github.io/",
+      "firstAuthor": "Tianxing Chen"
+    },
+    "MemoryWAM": {
+      "file": "cuhk.png",
+      "text": "MW",
+      "label": "The Chinese University of Hong Kong",
+      "affiliationSource": "https://github.com/yangsizhe/MemoryWAM",
+      "firstAuthor": "Sizhe Yang"
+    },
+    "MotuBrain": {
+      "file": "motubrain.svg",
+      "text": "Mot"
+    },
+    "OA-WAM": {
+      "file": "fast-wam.svg",
+      "text": "OA",
+      "label": "Tsinghua University",
+      "affiliationSource": "https://arxiv.org/pdf/2605.06481",
+      "firstAuthor": "Yushan Liu"
+    },
+    "OpenWAM-α": {
+      "file": "nus.png",
+      "text": "Ope",
+      "label": "National University of Singapore",
+      "firstAuthor": "Yuran Wang",
+      "affiliationSource": "https://openwam-official.github.io/"
+    },
+    "Qwen-RobotManip": {
+      "file": "qwen.png",
+      "text": "Qwe"
+    },
+    "Qwen-RobotManip-Context": {
+      "file": "qwen.png",
+      "text": "Qwe"
+    },
+    "Qwen-VLA-Instruct": {
+      "file": "qwen.png",
+      "text": "Qwe"
+    },
+    "Spatial Forcing": {
+      "file": "hkust-gz.png",
+      "text": "Spa",
+      "label": "HKUST (Guangzhou)",
+      "affiliationSource": "https://spatial-forcing.github.io/",
+      "firstAuthor": "Fuhao Li"
+    },
+    "StarVLA": {
+      "file": "starvla.svg",
+      "text": "Sta",
+      "label": "StarVLA Community / Von Neumann Institute, HKUST",
+      "affiliationSource": "https://arxiv.org/pdf/2604.05014"
+    },
+    "StarVLA-GR00T": {
+      "file": "starvla.svg",
+      "text": "Sta",
+      "label": "StarVLA Community / Von Neumann Institute, HKUST",
+      "affiliationSource": "https://arxiv.org/pdf/2604.05014"
+    },
+    "StarVLA-OFT": {
+      "file": "starvla.svg",
+      "text": "Sta",
+      "label": "StarVLA Community / Von Neumann Institute, HKUST",
+      "affiliationSource": "https://arxiv.org/pdf/2604.05014"
+    },
+    "WorldBridge": {
+      "file": "jd.ico",
+      "text": "JD",
+      "label": "JD / 京东",
+      "affiliationSource": "https://www.jd.com/"
+    },
+    "X-WAM": {
+      "file": "fast-wam.svg",
+      "text": "X",
+      "label": "Tsinghua University",
+      "firstAuthor": "Jun Guo",
+      "affiliationSource": "https://sharinka0715.github.io/X-WAM/"
+    },
+    "Xiaomi-Robotics-0": {
+      "file": "xiaomi.ico",
+      "text": "Xia"
+    },
+    "Xiaomi-Robotics-1": {
+      "file": "xiaomi.ico",
+      "text": "Xia"
+    },
+    "π0.5": {
+      "file": "physical-intelligence.png",
+      "text": "π",
+      "label": "Physical Intelligence",
+      "affiliationSource": "https://huggingface.co/physical-intelligence/papers"
+    },
+    "StarVLA-π": {
+      "file": "starvla.svg",
+      "text": "Sta",
+      "label": "StarVLA Community / Von Neumann Institute, HKUST",
+      "affiliationSource": "https://arxiv.org/pdf/2604.05014"
+    },
+    "StarVLA-PI_v3": {
+      "file": "starvla.svg",
+      "text": "Sta",
+      "label": "StarVLA Community / Von Neumann Institute, HKUST",
+      "affiliationSource": "https://arxiv.org/pdf/2604.05014"
+    },
+    "Qwen-VLA": {
+      "file": "qwen.png",
+      "text": "Qwe"
+    },
+    "π0": {
+      "file": "physical-intelligence.png",
+      "text": "π",
+      "label": "Physical Intelligence",
+      "affiliationSource": "https://huggingface.co/physical-intelligence/papers"
+    },
+    "Motus": {
+      "file": "fast-wam.svg",
+      "text": "Mot",
+      "label": "Tsinghua University",
+      "affiliationSource": "https://motus-robotics.github.io/motus",
+      "firstAuthor": "Hongzhe Bi"
+    },
+    "X-VLA": {
+      "file": "fast-wam.svg",
+      "text": "X",
+      "label": "Tsinghua University",
+      "affiliationSource": "https://thu-air-dream.github.io/X-VLA/",
+      "firstAuthor": "Jinliang Zheng"
+    },
+    "MemoryVLA": {
+      "file": "fast-wam.svg",
+      "text": "MV",
+      "label": "Tsinghua University",
+      "affiliationSource": "https://shihao1895.github.io/MemoryVLA/",
+      "firstAuthor": "Hao Shi"
+    },
+    "GR00T-N1.7": {
+      "file": "nvidia-square.png",
+      "text": "NV",
+      "label": "NVIDIA",
+      "affiliationSource": "https://github.com/NVIDIA/Isaac-GR00T"
+    },
+    "PUMA": {
+      "file": "hust.png",
+      "text": "HUST",
+      "label": "Huazhong University of Science and Technology",
+      "affiliationSource": "https://h-embodvis.github.io/DOMINO/",
+      "firstAuthor": "Heng Fang"
+    },
+    "OpenVLA": {
+      "file": "stanford.png",
+      "text": "S",
+      "label": "Stanford University",
+      "affiliationSource": "https://openvla.github.io/",
+      "firstAuthor": "Moo Jin Kim"
+    }
+  },
+  "note": "Confirmed project logos are used where available; otherwise an affiliated university or company mark is used. ABot-M0 uses Amap, InternVLA uses Shanghai AI Laboratory, and both JoyAI and WorldBridge use JD as requested. Hover text identifies institutional marks. NVIDIA is enlarged and its white image background is removed visually through CSS compositing.",
+  "affiliationAudit": {
+    "date": "2026-10-26",
+    "policy": "Prefer the first listed author’s first listed affiliation in the paper or official project page. Keep explicit user-selected organization marks. Community-authored StarVLA retains its official community mark.",
+    "confirmedCorrections": [
+      "MemoryWAM",
+      "4D-WAM",
+      "LaMem-VLA",
+      "AHA-WAM",
+      "X-WAM",
+      "DynamicWAM",
+      "OpenWAM-α"
+    ],
+    "displayFix": "PUMA: widen the HUST seal frame to include its full right edge."
+  }
+}
