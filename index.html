@@ -1370,42 +1370,42 @@
       <div class="scaling-columns" aria-hidden="true"><span>OOD data per task</span><span>Success rate (%)</span><span>Gain vs. previous</span></div>
       <ol class="scaling-rows">
         <li class="scaling-row baseline-row" data-videos="0" data-actions="0" data-success="25.07" data-gain="Baseline">
-  <div class="scaling-label"><strong>0 videos + 0 action labels</strong></div>
+  <div class="scaling-label"><strong>0 videos, 0 with action annotations</strong></div>
   <div class="scaling-bar"><div class="scaling-fill" style="width:25.07%"><span class="scaling-value">25.07%</span></div></div>
   <span class="scaling-gain">Baseline</span>
 </li>
 <li class="scaling-row video-row" data-videos="550" data-actions="0" data-success="55.90" data-gain="+30.83">
-  <div class="scaling-label"><strong>550 videos + 0 action labels</strong></div>
+  <div class="scaling-label"><strong>550 videos, 0 with action annotations</strong></div>
   <div class="scaling-bar"><div class="scaling-fill" style="width:55.90%"><span class="scaling-value">55.90%</span></div></div>
   <span class="scaling-gain">+30.83 <small>pts</small></span>
 </li>
 <li class="scaling-row " data-videos="550" data-actions="1" data-success="70.70" data-gain="+14.80">
-  <div class="scaling-label"><strong>550 videos + 1 action label</strong></div>
+  <div class="scaling-label"><strong>550 videos, 1 with action annotations</strong></div>
   <div class="scaling-bar"><div class="scaling-fill" style="width:70.70%"><span class="scaling-value">70.70%</span></div></div>
   <span class="scaling-gain">+14.80 <small>pts</small></span>
 </li>
 <li class="scaling-row " data-videos="550" data-actions="5" data-success="84.67" data-gain="+13.97">
-  <div class="scaling-label"><strong>550 videos + 5 action labels</strong></div>
+  <div class="scaling-label"><strong>550 videos, 5 with action annotations</strong></div>
   <div class="scaling-bar"><div class="scaling-fill" style="width:84.67%"><span class="scaling-value">84.67%</span></div></div>
   <span class="scaling-gain">+13.97 <small>pts</small></span>
 </li>
 <li class="scaling-row sparse-row" data-videos="550" data-actions="20" data-success="90.03" data-gain="+5.36">
-  <div class="scaling-label"><strong>550 videos + 20 action labels</strong></div>
+  <div class="scaling-label"><strong>550 videos, 20 with action annotations</strong></div>
   <div class="scaling-bar"><div class="scaling-fill" style="width:90.03%"><span class="scaling-value">90.03%</span></div></div>
   <span class="scaling-gain">+5.36 <small>pts</small></span>
 </li>
 <li class="scaling-row " data-videos="550" data-actions="50" data-success="92.27" data-gain="+2.24">
-  <div class="scaling-label"><strong>550 videos + 50 action labels</strong></div>
+  <div class="scaling-label"><strong>550 videos, 50 with action annotations</strong></div>
   <div class="scaling-bar"><div class="scaling-fill" style="width:92.27%"><span class="scaling-value">92.27%</span></div></div>
   <span class="scaling-gain">+2.24 <small>pts</small></span>
 </li>
 <li class="scaling-row " data-videos="550" data-actions="100" data-success="93.17" data-gain="+0.90">
-  <div class="scaling-label"><strong>550 videos + 100 action labels</strong></div>
+  <div class="scaling-label"><strong>550 videos, 100 with action annotations</strong></div>
   <div class="scaling-bar"><div class="scaling-fill" style="width:93.17%"><span class="scaling-value">93.17%</span></div></div>
   <span class="scaling-gain">+0.90 <small>pts</small></span>
 </li>
 <li class="scaling-row plateau-row" data-videos="550" data-actions="550" data-success="92.83" data-gain="-0.34">
-  <div class="scaling-label"><strong>550 videos + 550 action labels</strong></div>
+  <div class="scaling-label"><strong>550 videos, 550 with action annotations</strong></div>
   <div class="scaling-bar"><div class="scaling-fill" style="width:92.83%"><span class="scaling-value">92.83%</span></div></div>
   <span class="scaling-gain">−0.34 <small>pts</small></span>
 </li>
@@ -1422,40 +1422,40 @@
     <div class="tradeoff-grid">
       <article class="tradeoff-setting">
         <p class="setting-tag">Less video</p>
-        <div class="tradeoff-budget"><span><strong>100</strong> videos</span><span>+ <strong>100</strong> action labels</span></div>
+        <div class="tradeoff-budget"><span><strong>100</strong> videos,</span><span><strong>100</strong> with action annotations</span></div>
         <div class="tradeoff-result"><strong>88.83<span>%</span></strong><span>OOD task success</span></div>
         <div class="finding-track"><span style="width:88.83%"></span></div>
         <p class="setting-note">Reference budget</p>
       </article>
       <article class="tradeoff-setting">
         <p class="setting-tag">More video · sparse actions</p>
-        <div class="tradeoff-budget"><span><strong>550</strong> videos</span><span>+ <strong>20</strong> action labels</span></div>
+        <div class="tradeoff-budget"><span><strong>550</strong> videos,</span><span><strong>20</strong> with action annotations</span></div>
         <div class="tradeoff-result"><strong>90.03<span>%</span></strong><span>OOD task success</span></div>
         <div class="finding-track"><span style="width:90.03%"></span></div>
-        <p class="setting-note">+1.20 pts with 80% fewer action labels than the reference</p>
+        <p class="setting-note">+1.20 pts with 80% fewer action-annotated videos than the reference</p>
       </article>
       <article class="tradeoff-setting">
         <p class="setting-tag">More video · partial actions</p>
-        <div class="tradeoff-budget"><span><strong>550</strong> videos</span><span>+ <strong>100</strong> action labels</span></div>
+        <div class="tradeoff-budget"><span><strong>550</strong> videos,</span><span><strong>100</strong> with action annotations</span></div>
         <div class="tradeoff-result"><strong>93.17<span>%</span></strong><span>OOD task success</span></div>
         <div class="finding-track"><span style="width:93.17%"></span></div>
         <p class="setting-note">Highest measured success</p>
       </article>
       <article class="tradeoff-setting full-setting">
         <p class="setting-tag">More video · full actions</p>
-        <div class="tradeoff-budget"><span><strong>550</strong> videos</span><span>+ <strong>550</strong> action labels</span></div>
+        <div class="tradeoff-budget"><span><strong>550</strong> videos,</span><span><strong>550</strong> with action annotations</span></div>
         <div class="tradeoff-result"><strong>92.83<span>%</span></strong><span>OOD task success</span></div>
         <div class="finding-track"><span style="width:92.83%"></span></div>
-        <p class="setting-note">Labeling all videos adds no gain over 100 action labels</p>
+        <p class="setting-note">Annotating all 550 videos adds no gain over annotating 100</p>
       </article>
     </div>
     <div class="tradeoff-insights">
-      <div><strong>Scale video coverage</strong><p>At 100 action labels, more videos raise success from 88.83% to 93.17%: <b>+4.34 points</b>.</p></div>
-      <div><strong>Keep action labels sparse</strong><p>550 videos + 20 labels outperform 100 videos + 100 labels, with <b>80% fewer action labels</b>.</p></div>
-      <div><strong>Full labeling is unnecessary here</strong><p>100 labels achieve comparable success to 550 labels—93.17% vs. 92.83%—with <b>81.8% fewer action labels</b>.</p></div>
+      <div><strong>Scale video coverage</strong><p>With 100 action-annotated videos in both settings, more videos raise success from 88.83% to 93.17%: <b>+4.34 points</b>.</p></div>
+      <div><strong>Keep action labels sparse</strong><p>550 videos, 20 with action annotations, outperform 100 videos, 100 with action annotations, with <b>80% fewer action-annotated videos</b>.</p></div>
+      <div><strong>Full labeling is unnecessary here</strong><p>550 videos, 100 with action annotations, achieve 93.17% success, compared with 92.83% for 550 videos, all with action annotations—using <b>81.8% fewer action-annotated videos</b>.</p></div>
     </div>
   </div>
-  <p class="finding-protocol">Counts are per OOD task. ID supervision stays fixed at 550 videos and 550 action-labeled demonstrations per task. Action labels refer to labeled demonstrations, not individual action steps. ID/OOD is a fixed task partition.</p>
+  <p class="finding-protocol">Counts are per OOD task. ID supervision stays fixed at 550 videos per task, all with action annotations. Action-annotated videos are included in the total video count; counts refer to complete demonstrations, not individual action steps. ID/OOD is a fixed task partition.</p>
 </section>
 
 <section class="content-section" id="results">
@@ -1472,7 +1472,7 @@
 <article class="method-feature"><span class="feature-number">02</span><h3>Dual-scale visual memory</h3><p>Short-term observations capture local motion; long-term observations track task progress. Both provide temporal context beyond the current frame.</p></article>
 <article class="method-feature"><span class="feature-number">03</span><h3>Directional attention</h3><p>The action expert reads predicted visual dynamics. A structured attention mask connects video and action experts without feeding action tokens back into video generation.</p></article>
 <article class="method-feature"><span class="feature-number">04</span><h3>Action forcing</h3><p>Different actions within a training chunk receive different noise levels, allowing the action expert to use partially clean actions alongside future video features.</p></article>
-</div></section><section class="content-section" id="real-world"><div class="section-heading"><p class="eyebrow">04 / Physical capabilities</p><h2>Six tasks. Two robot platforms.</h2><p>Long-horizon execution, precise placement and coordinated manipulation on AgiBot G2 and ARX AC-1.</p></div><div class="protocol-note"><strong>Evaluation protocol</strong><span>Task-specific fine-tuning · 20 trials per task · varied initial positions or orientations · complete-task success</span></div><div class="demo-layout"><div id="demo-panel" role="tabpanel" aria-labelledby="task-flower"><video id="demo-video" controls playsinline muted loop preload="metadata" poster="assets/videos/flower-1.jpg"><source src="assets/videos/flower-1.mp4" type="video/mp4"></video><div class="demo-bottom"><h3 id="demo-title">Arranging flowers</h3><label class="video-speed">Speed <select id="video-speed" aria-label="Playback speed"><option value="1">1×</option><option value="1.5">1.5×</option><option value="2">2×</option><option value="3">3×</option><option value="4">4×</option></select></label><div id="demo-clips" aria-label="Choose a clip"></div></div><div class="demo-context"><div class="demo-meta"><span id="demo-platform"></span><span id="demo-capability"></span><strong id="demo-rate"></strong></div><p id="demo-description"></p><ol id="demo-steps"></ol><p class="figure-note" id="demo-note"></p></div></div><div class="demo-tasks" role="tablist" aria-label="Robot tasks"><button type="button" role="tab" id="task-flower" aria-controls="demo-panel" aria-selected="true" data-task="flower"><video class="task-preview" src="assets/videos/flower-1.mp4" poster="assets/videos/flower-1.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>01</span>Arranging flowers</button><button type="button" role="tab" id="task-cup" aria-controls="demo-panel" aria-selected="false" data-task="cup"><video class="task-preview" src="assets/videos/cup-1.mp4" poster="assets/videos/cup-1.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>02</span>Hanging mugs</button><button type="button" role="tab" id="task-juice" aria-controls="demo-panel" aria-selected="false" data-task="juice"><video class="task-preview" src="assets/videos/juice-1.mp4" poster="assets/videos/juice-1.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>03</span>Scanning drinks</button><button type="button" role="tab" id="task-book" aria-controls="demo-panel" aria-selected="false" data-task="book"><video class="task-preview" src="assets/videos/book-trimmed.mp4" poster="assets/videos/book-trimmed.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>04</span>Packing books</button><button type="button" role="tab" id="task-screws" aria-controls="demo-panel" aria-selected="false" data-task="screws"><video class="task-preview" src="assets/videos/screws-trimmed.mp4" poster="assets/videos/screws-trimmed.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>05</span>Sorting screws</button><button type="button" role="tab" id="task-lego" aria-controls="demo-panel" aria-selected="false" data-task="lego"><video class="task-preview" src="assets/videos/lego-trimmed.mp4" poster="assets/videos/lego-trimmed.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>06</span>Separating LEGO bricks</button></div></div><figure class="real-robot-figure" id="real-robot"><div class="real-robot-heading"><div><h3>Complete-task success</h3><p class="figure-note">72.5% average · +15.0 percentage points over π₀.₅ · +25.8 points over Heres without joint pretraining</p></div><button id="real-robot-replay" type="button">↻ Replay</button></div><div class="real-robot-scroll"><div id="real-robot-chart"></div></div><p id="real-robot-status" aria-live="polite"></p><figcaption>Unweighted mean over six tasks, with 20 trials per task. All compared methods are fine-tuned on the same task demonstration sets. These rollouts demonstrate adapted policies, rather than zero-shot task transfer.</figcaption></figure></section><section class="content-section" id="evidence"><div class="section-heading"><p class="eyebrow">05 / Ablation Study</p></div><div class="evidence-grid"><article class="evidence-card"><div class="figure-head"><h3>Action forcing + visual memory</h3></div><label class="ablation-select">Benchmark <select id="ablation-benchmark"><option value="0">RoboTwin</option><option value="1">RoboCasa</option><option value="2">RoboDojo</option></select></label><div id="ablation-chart"></div></article><article class="evidence-card pretraining-card">
+</div></section><section class="content-section" id="real-world"><div class="section-heading"><p class="eyebrow">04 / Physical capabilities</p><h2>Six tasks. Two robot platforms.</h2><p>Long-horizon execution, precise placement and coordinated manipulation on AgiBot G2 and ARX AC-1.</p></div><div class="protocol-note"><strong>Evaluation protocol</strong><span>Task-specific fine-tuning · 20 trials per task · varied initial positions or orientations · complete-task success</span></div><div class="demo-layout"><div id="demo-panel" role="tabpanel" aria-labelledby="task-flower"><video id="demo-video" controls playsinline muted loop preload="metadata" poster="assets/videos/flower-1.jpg"><source src="assets/videos/flower-1.mp4" type="video/mp4"></video><div class="demo-bottom"><h3 id="demo-title">Arranging flowers</h3><label class="video-speed">Speed <select id="video-speed" aria-label="Playback speed"><option value="1">1×</option><option value="2" selected>2×</option></select></label><div id="demo-clips" aria-label="Choose a clip"></div></div><div class="demo-context"><div class="demo-meta"><span id="demo-platform"></span><span id="demo-capability"></span><strong id="demo-rate"></strong></div><p id="demo-description"></p><ol id="demo-steps"></ol><p class="figure-note" id="demo-note"></p></div></div><div class="demo-tasks" role="tablist" aria-label="Robot tasks"><button type="button" role="tab" id="task-flower" aria-controls="demo-panel" aria-selected="true" data-task="flower"><video class="task-preview" src="assets/videos/flower-1.mp4" poster="assets/videos/flower-1.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>01</span>Arranging flowers</button><button type="button" role="tab" id="task-cup" aria-controls="demo-panel" aria-selected="false" data-task="cup"><video class="task-preview" src="assets/videos/cup-1.mp4" poster="assets/videos/cup-1.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>02</span>Hanging mugs</button><button type="button" role="tab" id="task-juice" aria-controls="demo-panel" aria-selected="false" data-task="juice"><video class="task-preview" src="assets/videos/juice-1.mp4" poster="assets/videos/juice-1.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>03</span>Scanning drinks</button><button type="button" role="tab" id="task-book" aria-controls="demo-panel" aria-selected="false" data-task="book"><video class="task-preview" src="assets/videos/book-trimmed.mp4" poster="assets/videos/book-trimmed.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>04</span>Packing books</button><button type="button" role="tab" id="task-screws" aria-controls="demo-panel" aria-selected="false" data-task="screws"><video class="task-preview" src="assets/videos/screws-trimmed.mp4" poster="assets/videos/screws-trimmed.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>05</span>Sorting screws</button><button type="button" role="tab" id="task-lego" aria-controls="demo-panel" aria-selected="false" data-task="lego"><video class="task-preview" src="assets/videos/lego-trimmed.mp4" poster="assets/videos/lego-trimmed.jpg" muted playsinline loop preload="none" aria-hidden="true"></video><span>06</span>Separating LEGO bricks</button></div></div><figure class="real-robot-figure" id="real-robot"><div class="real-robot-heading"><div><h3>Complete-task success</h3><p class="figure-note">72.5% average · +15.0 percentage points over π₀.₅ · +25.8 points over Heres without joint pretraining</p></div><button id="real-robot-replay" type="button">↻ Replay</button></div><div class="real-robot-scroll"><div id="real-robot-chart"></div></div><p id="real-robot-status" aria-live="polite"></p><figcaption>Success rate over 20 trials per task; average across six tasks. All methods are fine-tuned on the same task demonstrations.</figcaption></figure></section><section class="content-section" id="evidence"><div class="section-heading"><p class="eyebrow">05 / Ablation Study</p></div><div class="evidence-grid"><article class="evidence-card"><div class="figure-head"><h3>Action forcing + visual memory</h3></div><label class="ablation-select">Benchmark <select id="ablation-benchmark"><option value="0">RoboTwin</option><option value="1">RoboCasa</option><option value="2">RoboDojo</option></select></label><div id="ablation-chart"></div></article><article class="evidence-card pretraining-card">
   <div class="figure-head"><h3>The benefit of joint data pretraining</h3></div>
   <p class="pretraining-context">RoboTwin 2.0 · Clean-to-Random</p>
   <div class="pretraining-ablation" aria-label="Joint data pretraining ablation, average success rate">
@@ -1498,4 +1498,4 @@
   url    = {}
 }</code></pre>
   <p class="citation-status" id="citation-status" aria-live="polite"></p>
-</section></main><footer><a class="brand" href="#top">WorldBridge<span>.</span></a></footer><script src="app.js?v=autoloop-29"></script><script src="demos.js?v=trim-speed"></script><script src="benchmarks.js?v=affiliation-audit-15"></script><script src="real-robot.js?v=spacing"></script><script src="refined.js?v=benchmark-order-13"></script><script src="architecture-animation.js?v=model-animation-17"></script></body></html>
+</section></main><footer><a class="brand" href="#top">WorldBridge<span>.</span></a></footer><script src="app.js?v=autoloop-29"></script><script src="demos.js?v=default-2x-30"></script><script src="benchmarks.js?v=affiliation-audit-15"></script><script src="real-robot.js?v=spacing"></script><script src="refined.js?v=benchmark-order-13"></script><script src="architecture-animation.js?v=model-animation-17"></script></body></html>
