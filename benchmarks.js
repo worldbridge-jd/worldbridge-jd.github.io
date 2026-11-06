@@ -648,20 +648,20 @@ const benchmarks = [
       {
         "name": "WorldBridge",
         "values": [
-          36.38,
-          28.0,
-          9.97,
-          4.0,
-          35.85,
-          26.5,
-          37.29,
-          20.5,
-          31.35,
-          31.0,
-          2.5,
-          1.75,
-          26.03,
-          19.15
+          37.75,
+          30.00,
+          11.35,
+          4.00,
+          35.40,
+          25.25,
+          42.25,
+          27.00,
+          32.93,
+          32.67,
+          4.60,
+          3.75,
+          27.95,
+          21.13
         ]
       },
       {
@@ -892,7 +892,7 @@ const benchmarks = [
   },
   {
     "id": "domino",
-    "title": "DOMINO · Level-1",
+    "title": "DOMINO",
     "source": "Table 4",
     "description": "Dynamic manipulation; averaged over Clean and Randomized configurations.",
     "rows": [
